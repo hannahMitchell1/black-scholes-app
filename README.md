@@ -1,4 +1,4 @@
-# Black-Scholes and binomial Option Pricing App
+# Black-Scholes and Binomial Option Pricing App
 
 A Streamlit web app for visualizing option prices using the Black-Scholes model and binomial tree.
 
